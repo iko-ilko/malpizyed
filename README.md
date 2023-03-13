@@ -13,32 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=80&section=header&text=malpizyed&fontSize=30)
 
 <strong>KO ILSUNG(고일성)<strong>
 ----
-:smirk:
 ----
 
-> my
->> first
->>>github
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-:memo:Studying
-----
-<img src="https://img.shields.io/badge/language-000000?style=flat-square&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/python-FFEE00?style=flat-square&logo=python&logoColor=002CFF"/>
 
 ----
 here
